@@ -1,0 +1,23 @@
+* Learning Theory 
+
+This directed reading group is going to cover intermediate and advanced learning theory. The core reading is going to be this [[https://web.stanford.edu/class/cs229t/notes.pdf][notes]], which were taken in support of this [[https://web.stanford.edu/class/cs229t/][course]], offered at our neighbors on the other side of the bay. Great, great work.  
+
+* Main Resources 
+
+| Week | Topic       | Reading | Additional Reading   |
+|------+-------------+---------+----------------------|
+|    1 | Asymptotics |         | [[https://web.stanford.edu/class/cs229t/2016/notes.pdf#nameddest%3Dlecture1][Lecture 1]], [[https://web.stanford.edu/class/cs229t/2016/notes.pdf#nameddest%3Dlecture2][Lecture 2]] |
+|      |             |         |                      |
+|      |             |         |                      |
+|      |             |         |                      |
+|      |             |         |                      |
+|      |             |         |                      |
+|      |             |         |                      |
+|      |             |         |                      |
+|      |             |         |                      |
+
+* Additional Topics: Learning Theory Directed Toward Experiments 
+
+- [[https://arxiv.org/abs/1510.04342][Causal Forests]] 
+- [[https://www.pnas.org/content/pnas/113/27/7353.full.pdf][Recursive Partitioning]]
+- [[https://arxiv.org/abs/1706.09523][Bayesian Dreamin']]  
